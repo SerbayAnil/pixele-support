@@ -1,70 +1,42 @@
-# pixele-support
-Official support page for Pixele, a pixel-art fishing game.
-# 🎣 Pixele – Official Support
 
-Welcome to the official support repository for **Pixele**, a relaxing pixel-art fishing game for iOS.
+# 🎣 Pixele – Resmî Destek Sayfası
 
-Pixele combines nostalgic pixel graphics, fishing mechanics, changing weather conditions, and peaceful environments to create an enjoyable fishing experience.
+**Pixele'nin resmî destek sayfasına hoş geldiniz!**
 
-## 🎮 About Pixele
+Pixele, nostaljik piksel grafikleri, eğlenceli balık tutma mekanikleri ve huzurlu atmosferiyle keyifli bir balıkçılık deneyimi sunan mobil bir oyundur.
 
-Pixele offers a variety of gameplay features:
+Bu sayfa, Pixele oyuncularına teknik destek sağlamak, sık sorulan soruları yanıtlamak ve oyun hakkında bilgilendirme yapmak amacıyla oluşturulmuştur.
 
-- 🎣 Interactive fishing mechanics
-- 🐟 Different fish species and a fish collection
-- 🌅 Multiple fishing locations
-- 🌦️ Dynamic weather and seasonal changes
-- 🛒 Fishing equipment and upgrades
-- 🐈 Oscar, your fishing companion
-- 🌙 Day and night cycles
+## 🎮 Pixele Hakkında
 
-## 🛠️ Support
+Pixele'de oyuncuları birbirinden farklı özellikler bekliyor:
 
-If you experience any problems while playing Pixele, please contact the developer.
+- 🎣 Eğlenceli ve etkileşimli balık tutma mekanikleri
+- 🐟 Farklı balık türleri ve balık koleksiyonu
+- 🌅 Birbirinden farklı balıkçılık noktaları
+- 🌦️ Değişen hava koşulları ve dört mevsim
+- 🌙 Gece ve gündüz döngüsü
+- 🛒 Balıkçılık ekipmanları ve geliştirmeler
+- 🐈 Sevimli dostumuz Oscar
+- 🎵 Rahatlatıcı arka plan müzikleri
 
-When reporting an issue, please include:
+## 🛠️ Teknik Destek
 
-- Your iPhone or iPad model
-- Your iOS or iPadOS version
-- Your Pixele app version
-- A description of the problem
-- A screenshot, if available
+Pixele'yi oynarken karşılaştığınız sorunları, hataları veya önerilerinizi geliştiriciye iletebilirsiniz.
 
-**Developer:** Serbay Anıl
+Sorun bildirirken aşağıdaki bilgileri paylaşmanız çözüm sürecini kolaylaştıracaktır:
 
-**Support Email:** [Add your support email address here]
+- Kullandığınız iPhone veya iPad modeli
+- iOS veya iPadOS sürümü
+- Pixele uygulama sürümü
+- Karşılaştığınız sorunun açıklaması
+- Mümkünse sorunu gösteren ekran görüntüsü
 
-## ❓ Frequently Asked Questions
+**Geliştirici:** Serbay Anıl
 
-### Is Pixele free to play?
+**Destek e-posta adresi:** serbayanil@gmail.com
+## ❓ Sık Sorulan Sorular
 
-Pixele is planned to launch as a free game. Pricing may change in future releases.
+### Pixele ücretsiz mi?
 
-### Does Pixele require an internet connection?
-
-The core gameplay is designed to work offline.
-
-### Where is my game progress stored?
-
-Game progress and preferences are stored locally on your device.
-
-### How can I report a bug?
-
-Contact the developer using the support email address above.
-
-## 🔒 Privacy Policy
-
-Pixele does not collect personal information according to its current privacy policy.
-
-Read the full policy:
-
-https://serbayanil.github.io/pixele-privacy/
-
-## 📱 Platform
-
-- iOS
-- iPadOS, if supported by the released build
-
-## © Copyright
-
-Copyright © 2026 Serbay Anıl. All rights reserved.
+Pixele'nin ilk sürümü ücretsiz olarak sunulması planlanan bir oyundur. Gelecekte fiyat
